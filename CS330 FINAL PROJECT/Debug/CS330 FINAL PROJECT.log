@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(397,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(542,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(543,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(547,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(548,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(550,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(551,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(561,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\miahv\source\repos\CS330 FINAL PROJECT\CS330 FINAL PROJECT\Source.cpp(608,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CS330 FINAL PROJECT.vcxproj -> C:\Users\miahv\source\repos\CS330 FINAL PROJECT\Debug\CS330 FINAL PROJECT.exe
