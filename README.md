@@ -1,4 +1,4 @@
-# CS_330
+# OPENGL
 
 I have learned many new skills while working on this project. One of the most important skills I took away is the ability to move 3D object around in a 3D scene. There are many jobs that require you to have knowledge of 3D scenes, so this is 
 something very useful for me. The design process I followed was to first ensure I could get everything working at a basic level, and then start adding new things. I was able to change the shapes, add textures, add a camera, and add lighting. I 
