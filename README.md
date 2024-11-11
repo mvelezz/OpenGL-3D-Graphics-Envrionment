@@ -10,4 +10,5 @@ how it changed the scene. This allowed me to fine tune nearly every aspect of my
 I believe this course was a great way to learn problem solving. It was incredibly challenging, but rewarding to see my scene come to life. I believe that this new knowledge will not only help me in my education, but as a software developer in
 the future. 
 
-![Screenshot 2024-02-15 132859](https://github.com/user-attachments/assets/276dac65-cd4d-435a-b1b0-885962568088)
+![Screenshot 2024-11-11 081750](https://github.com/user-attachments/assets/31d1eeaa-bb68-4a06-bf15-f34b601c3d27)
+
